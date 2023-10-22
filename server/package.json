@@ -1,0 +1,23 @@
+{
+  "name": "zerotogql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "k-xo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dockerode": "^4.0.0",
+    "express": "^4.18.2",
+    "get-port": "^7.0.0",
+    "morgan": "^1.10.0",
+    "unique-names-generator": "^4.7.1"
+  }
+}
