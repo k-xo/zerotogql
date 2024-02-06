@@ -1,8 +1,10 @@
-# Zero to GraphQL Server Generator (Inactive)
+# [Zero](https://github.com/RootbeerComputer/zero) to GraphQL Server Generator (Inactive)
+
+This README is GPT generated lmao
 
 ## Overview
 
-This project provides a simple yet powerful tool to generate GraphQL servers from user-provided schema definitions. It leverages Docker to containerize each GraphQL server instance and configures routing dynamically using Nginx. The current setup is designed to run on a single virtual machine (VM), but it is adaptable for a serverless architecture.
+This project provides a simple yet powerful tool to generate GraphQL servers from user-provided schema definitions. It leverages Docker to containerize each GraphQL server instance and configures routing dynamically using Nginx. The current setup is designed to run on a single VM.
 
 ## How It Works
 
